@@ -26,7 +26,7 @@ Package contents (sbt standard schema):<br>
 + README - this readme file<br>
 + src[] - source code directory<br>
 +++ main[]<br>
-+++++ resources[]
++++++ resources[]<br>
 +++++++ application.conf<br>
 +++++++ common.conf<br>
 +++++ scala[]<br>
